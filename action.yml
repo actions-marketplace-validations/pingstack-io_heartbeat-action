@@ -2,8 +2,8 @@ name: Pingstack Heartbeat
 description: Report each scheduled workflow run to a Pingstack heartbeat check, so a missed or failed run alerts you.
 author: Pingstack
 branding:
-  icon: activity
-  color: green
+  icon: layers
+  color: orange
 
 inputs:
   ping-url:
